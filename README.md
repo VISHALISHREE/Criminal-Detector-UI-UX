@@ -37,4 +37,46 @@ Screenshots are available in the screenshots folder.
 * Real-Time Surveillance
 * Cloud-Based Storage
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home%20page.png)
+
+### Login Page
+
+![Login Page](screenshots/login%20page.png)
+
+### Forgot Password
+
+![Forgot Password](screenshots/forgot%20password%20page.png)
+
+### OTP Verification
+
+![OTP Verification](screenshots/otp%20verify%20page.png)
+
+### New Password
+
+![New Password](screenshots/new%20password%20page.png)
+
+### User Details Management
+
+![User Details](screenshots/User%20Details%20Management%20page.png)
+
+### Emergency Calling
+
+![Emergency Calling](screenshots/Emergency%20Calling%20page.png)
+
+### Criminal Registration
+
+![Criminal Registration](screenshots/Criminal%20Registration%20page.png)
+
+### Image Surveillance
+
+![Image Surveillance](screenshots/Image%20Surveillance%20page\(1\).png)
+
+### Video Surveillance
+
+![Video Surveillance](screenshots/Video%20Surveillance%20page\(1\).png)
+
 
