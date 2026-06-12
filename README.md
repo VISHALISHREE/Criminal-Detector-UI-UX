@@ -6,6 +6,10 @@ Criminal Detector is a mobile application prototype designed using Figma.
 
 The application includes authentication, criminal registration, surveillance management, and emergency response interfaces.
 
+## Figma Prototype
+
+[Figma Design](https://www.figma.com/design/bYVP9ramBAyDGNNzUs36KB/Untitled?node-id=2040-62&t=vNNYenwJDpbU1G3q-1)
+
 ## Features
 
 * Login System
