@@ -39,19 +39,19 @@ Screenshots are available in the screenshots folder.
 
 ## Screenshots
 
-### Home Page
+###           Home Page
 
 ![Home Page](screenshots/home%20page.png)
 
-### Login Page
+###           Login Page
 
 ![Login Page](screenshots/login%20page.png)
 
-### Forgot Password
+###         Forgot Password
 
 ![Forgot Password](screenshots/forgot%20password%20page.png)
 
-### OTP Verification
+###         OTP Verification
 
 ![OTP Verification](screenshots/otp%20verify%20page.png)
 
