@@ -3,10 +3,12 @@
 ## Overview
 
 • Designed a 15-screen mobile application prototype for criminal record management and surveillance operations.
-• Created authentication, criminal registration, image surveillance, video surveillance, and emergency response interfaces.
-• Developed complete user workflows using modern UI/UX design principles in Figma.
-• Documented and published the project on GitHub with design assets and prototype links.
 
+• Created authentication, criminal registration, image surveillance, video surveillance, and emergency response interfaces.
+
+• Developed complete user workflows using modern UI/UX design principles in Figma.
+
+• Documented and published the project on GitHub with design assets and prototype links.
 
 ## Figma Prototype
 
