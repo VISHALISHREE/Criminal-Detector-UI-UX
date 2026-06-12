@@ -1,10 +1,12 @@
-# Criminal Detector Mobile Application UI/UX
+##Criminal Detector Mobile Application UI/UX | Figma
 
 ## Overview
 
-Criminal Detector is a mobile application prototype designed using Figma.
+• Designed a 15-screen mobile application prototype for criminal record management and surveillance operations.
+• Created authentication, criminal registration, image surveillance, video surveillance, and emergency response interfaces.
+• Developed complete user workflows using modern UI/UX design principles in Figma.
+• Documented and published the project on GitHub with design assets and prototype links.
 
-The application includes authentication, criminal registration, surveillance management, and emergency response interfaces.
 
 ## Figma Prototype
 
