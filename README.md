@@ -41,7 +41,8 @@ Screenshots are available in the screenshots folder.
 
 ###           Home Page
 
-![Home Page](screenshots/home%20page.png)
+  ![Home Page]
+  (screenshots/home%20page.png)
 
 ###           Login Page
 
